@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Bem+vindo(a)+ao+meu+Perfil+%F0%9F%98%81" alt="Typing SVG" /></a>
+<div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Bem+vindo(a)+ao+meu+Perfil+%F0%9F%98%81" alt="Typing SVG" /></a>
+</div>
 
  <div>
    <a href="https://github.com/maikesoares">
