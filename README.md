@@ -2,7 +2,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Bem+vindo(a)+ao+meu+Perfil%F0%9F%98%81" alt="Typing SVG" /></a>
 </div>
 
-<div style="font-size: 20px">
+<div style="font-size: '20px'">
  <h1>Sobre mim:<h1/>
   <ul>
    <li><p>Apaixonado por Progamação👾, nerd🤓, animes😛e academia💪.<p/></li>
