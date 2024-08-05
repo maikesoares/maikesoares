@@ -3,20 +3,23 @@
 </div>
 
 <div>
- <h1 style="font-size: 5px">Sobre mim:<h1/>
-  <ul>
-   <li><p>Apaixonado por Progamação👾, nerd🤓, animes😛e academia💪.<p/></li>
-   <li><p>Estudante de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/pirapora">IFNMG</a> e Dev FullStack no <a href="https://github.com/devemdobro">DevEmDobro.</a><p/></li>
-   <li><p>Possuo inglês básico.<p/></li>
-   <li><p>Curto jogar 🎮.<p/></li>
-  </ul>
+ <img height="400em"  src="https://www.significadodossonhosonline.com/wp-content/uploads/2019/01/Frases-Para-o-Instagram.jpg" alt="Mensagem motivacional"/>
 </div>
+
+### Sobre mim:
+- Apaixonado por Progamação👾, nerd🤓, animes😛 e academia💪.
+- Estudante de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/pirapora"/>IFNMG</a> e Dev FullStack no <a href="https://github.com/devemdobro"/>DevEmDobro.
+- Possuo inglês básico.
+- Curto jogar nas horas de lazer 🎮.
+<br>
 
  <div>
    <a href="https://github.com/maikesoares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikesoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikesoares&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+### Minhas Skills:
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
