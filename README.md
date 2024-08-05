@@ -2,6 +2,16 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Bem+vindo(a)+ao+meu+Perfil%F0%9F%98%81" alt="Typing SVG" /></a>
 </div>
 
+<div>
+ <h1>Sobre mim:<h1/>
+  <ul>
+   <li><p>Apaixonado por Progamação👾, nerd🤓, animes😛e academia💪.<p/></li>
+   <li><p>Estudante de Sistemas de Informação no IFNMG (Instituto federal do norte de minas gerais) e Dev FullStack no <a href="https://github.com/devemdobro">DevEmDobro.</a><p/></li>
+   <li><p>Possuo inglês básico.<p/></li>
+   <li><p>Curto jogar 🎮.<p/></li>
+  </ul>
+</div>
+
  <div>
    <a href="https://github.com/maikesoares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikesoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
