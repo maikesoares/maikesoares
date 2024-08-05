@@ -2,8 +2,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Bem+vindo(a)+ao+meu+Perfil%F0%9F%98%81" alt="Typing SVG" /></a>
 </div>
 
-<div style="font-size: 5px;">
- <h1>Sobre mim:<h1/>
+<div>
+ <h1 style="font-size: 5px">Sobre mim:<h1/>
   <ul>
    <li><p>Apaixonado por Progamação👾, nerd🤓, animes😛e academia💪.<p/></li>
    <li><p>Estudante de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/pirapora">IFNMG</a> e Dev FullStack no <a href="https://github.com/devemdobro">DevEmDobro.</a><p/></li>
