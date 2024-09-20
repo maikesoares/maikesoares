@@ -7,7 +7,7 @@
 </div>
 
 ### Sobre mim:
-- Apaixonado por Progamação👾, nerd🤓, animes😛 e academia💪.
+- Apaixonado por Programação👾, nerd🤓, animes😛 e academia💪.
 - Estudante de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/pirapora"/>IFNMG</a> e Dev FullStack no <a href="https://github.com/devemdobro"/>DevEmDobro.
 - Possuo inglês básico.
 - Curto jogar nas horas de lazer 🎮.
